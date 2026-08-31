@@ -1,0 +1,20 @@
+{
+  "name": "pawngame",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mohit Singh",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "socket": "^1.1.158",
+    "socket.io": "^4.8.3"
+  }
+}
